@@ -1,38 +1,56 @@
 </p>
 <p align="center">
   <a href="">
-    <img alt=Support height="250" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
     </p>
+    <h1 align="center">XLICON-1.O<br></h1>
     
+   </a>
 </p>
-<h1 align="center"> XLICON-MULTIDEVICE (Beta)
+<p align="center">
+<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/salmanytofficial?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
+<a href="https://github.com/salmanytofficial/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?&style=social"></a>
+<a href="https://github.com/salmanytofficial/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?style=social"></a>
+<a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
+</p>
+
+## `Notice`
+
+If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+
+---
+
+## `Announment` 🤫
+
+***XLICON-2.O*** is now Officially Announced ✨
+
+<h1 align="center"> *XLICON-2.0*
 </h1>
-<p align="center"> 
-  Konnichiwaa!! I am a WhatsApp bot create by Salman Ahmad & ProfileCorruptedError and recode by Team XLICON to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-  </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/XLICON-MD/count.svg" /></p>
+<p align="center"><a href="https://github.com/ahil15/Xlicon-v2"><img title="" src="https://img.shields.io/badge/XLICON%202.O-purple?style=for-the-badge&logo=github"></a>
 
-<p align="left"> 
-  <a href="https://github.com/salmanytofficial/XLICON-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/salmanytofficial/XLICON-MD?style=social">
+---
+
     
-   <p align="left">
-  <a href="https://github.com/salmanytofficial/XLICON-MD/fork">
-    <img src="https://img.shields.io/github/forks/salmanytofficial/XLICON-MD?label=Fork&style=social">
-    
- 
-  <p align="left>
-  <a href="https://github.com/salmanytofficial"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
+## `Installation` 📲
 
-## Important Notice
+1. Fork the repo
+    <br>
+<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-XLICON MD Require A MongoDB Key TO Deply. XLICON MD Might Give you Mongodb issues I suggest you to use Xlicon Md V2 Which is latest
+2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+    <br>
+<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-[Get XLICON V2](https://github.com/ahil15/Xlicon-v2)]
-  
-## Features
+3. Scan Qr
+    <br>
+<a href='https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+
+
+## `Features`
 
 - 275+ Awesome Commands
 - 24/7 Support
@@ -43,9 +61,9 @@ XLICON MD Require A MongoDB Key TO Deply. XLICON MD Might Give you Mongodb issue
 - Make your boring whatsapp fun
 
 
-## Support
+## `Support`
 
-For support, email infiniteytff@gmail.com or xheikhsalman4422@gmail.com or join our whatsapp group.
+For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 <p align="center">
@@ -54,15 +72,10 @@ For support, email infiniteytff@gmail.com or xheikhsalman4422@gmail.com or join 
   </a>
 <a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a aria-label="Join our chats" href="https://wa.me/8801853262586?text=Hi!! ProfileCorruptedError Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
 </p>
 
 
-## MONGODB URL
+## `MONGODB URL`
 
 
 ●.  ***Get a Mongodb urL from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
@@ -73,17 +86,14 @@ For support, email infiniteytff@gmail.com or xheikhsalman4422@gmail.com or join 
 
 
 ```
-mongodb+srv://salman:s4salmanyt@cluster0.vjr9j7i.mongodb.net/?retryWrites=true&w=majority
-```
-```
-mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
+mongodb+srv://salmanytofficial:s4salmanyt@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `MONGODB_URL` | `string` | **Required**. Your Bot Cannot run without this|
 
-## Installation
+## `Installation`
 
 1.Replit Installation
 
@@ -130,22 +140,9 @@ Choose your repo
 
   ........................................................
   
-
-
-
-## SCAN QR HERE
-
-
-●. ***[SCAN QR CODE SERVER 1](https://replit.com/@S4SalmanYt/XLICON-MD-QR-V5?v=1)***
-
-●. ***[SCAN QR CODE SERVER 2](https://secktorqrmd-4fab425d0d27.herokuapp.com/id)***
-  
-●. ***[SCAN QR CODE SERVER 3](https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1)***
-
-  ........................................................
   
   
-  ## DEPLOYMENTS
+  ## `DEPLOYMENTS`
   
   
   
@@ -246,8 +243,7 @@ Choose your repo
   
 <p align="center">
     <a href="https://railway.app/new">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
-    </a>
+    <p align="center"><a href="https://railway.app/new"> <img src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
     
 </p>
 
@@ -341,12 +337,20 @@ Choose your repo
 
 
 
-## Authors
+## `Authors`
+
+- Owner [@salmanytoffficial](https://www.github.com/salmantofficial)
+
+- C.Owner [@Slasher](https://www.github.com/ahil15)
 
 
-[@salmanytoffficial](https://www.github.com/salmantofficial)
-
-[@ProfileCorruptedError](https://www.github.com/ahil15)
+<h2 align="left">  Reminder
+</h2>
+   
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+ 
 
 
 
@@ -374,31 +378,3 @@ Choose your repo
 
 
 
-
-
-## Legal Disclaimer
-
-- We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
-
-
-- We don't recommend to hardly modify the script. `If you do so, you will be responsible for any issues / bugs and we will not provide any support` as we are also busy in our life
-
-- We will not be responsible for any issues caused by any individual hosting this bot and cause any harm to any Group `(So don't make someone Group Admin who you don't know just because they are hosting the Bot)`.
-
-<br><br>
-
-# ```Warning```:
-    
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
-
-- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
-
-- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
-
-
-- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
-
-
-- We will only assist you in `Setup / Deployment` of this bot.
-
-<br><br>
