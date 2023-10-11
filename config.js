@@ -4,8 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || "94766494699"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://salmanytofficial:s4salmanyt@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority"
-global.port= process.env.PORT || '8000'
+global.mongodb = process.env.MONGODB_URI || "mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i"
 global.email = 'xheikhsalman4422@gmail.com'
 global.github = 'https://github.com/salmanytofficial/XLICON-MD'
 global.location = 'Lahore Pak'
