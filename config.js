@@ -4,13 +4,13 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || "94766494699"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i"
-global.email = 'xheikhsalman4422@gmail.com'
+global.mongodb = process.env.MONGODB_URI || "mongosh "mongodb+srv://atlascluster.oucik76.mongodb.net/" --apiVersion 1 --username Bosco5694"
+global.email = ''
 global.github = 'https://github.com/salmanytofficial/XLICON-MD'
 global.location = 'Lahore Pak'
 global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '94766494699' 
-global.devs = '923184070915';
+global.sudo = process.env.SUDO || '254710881926' 
+global.devs = '254710881926';
 global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
